@@ -1,6 +1,11 @@
 # Kaitani's portfolio
 
-This is a website project which will contain a short introduction of me as a developer, my online resume (career + background + skills) and my works.
+This is a website project which means to contain all the details of my activity as a developper:
+- A short introduction of me
+- My career (internships)
+- My backround (education)
+- My Skills (learned and mastered programming languages)
+- My works (projects - websites, games, animations)
 
 ### Lien demo
 
@@ -23,14 +28,14 @@ kaitani_portfolio/
   |  |- assets/
   |  |  |- bootstrap/
   |  |  |- css/
-  |  |  |  |- <main.css> // fichier css issue de la compilation de <main.less>
+  |  |  |  |- <main.css>
   |  |  |- fonts/
   |  |  |- js/
-  |  |  |  |- <main.js> // fichier js pour l'animation de l'interface graphique
+  |  |  |  |- <main.js>
   |  |  |- less/
-  |  |  |  |- <main.less> // fichier less pour le design de l'interface graphique
+  |  |  |  |- <main.less>
   |  |  |- pictures/
-  |  |  |  |- <images> // images
+  |  |  |  |- <images>
   |  |  |
   |  |
   |
