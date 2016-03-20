@@ -1,6 +1,6 @@
 # Kaitani's portfolio
 
-This is a website project which means to contain all the details of my activity as a developper:
+This is a website project which means to contain all the details of my activity as a developer:
 - A short introduction of me
 - My career (internships)
 - My backround (education)
