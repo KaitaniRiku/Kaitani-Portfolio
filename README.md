@@ -1,11 +1,11 @@
 # Kaitani's portfolio
 
+This is a website project which will contain a short introduction of me as a developer, my online resume (career + background + skills) and my works.
 
 ### Lien demo
 
 http://vacherot.etudiant-eemi.com/perso/dossier/malcolm0810/private/s2705/kaitani_portfolio/
 
-=======
 
 ### Location of files
 
