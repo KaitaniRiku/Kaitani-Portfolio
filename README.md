@@ -1,4 +1,4 @@
-# KaitaniRiku's portfolio (project in process)
+# Kaitani's portfolio
 
 
 ### Lien demo
